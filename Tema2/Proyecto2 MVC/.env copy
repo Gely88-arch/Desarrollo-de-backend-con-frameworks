@@ -1,0 +1,10 @@
+DB_USER=postgres
+DB_PASSWORD=1234
+DB_HOST=localhost
+DB_PORT=5433
+DB_NAME=client_db
+
+PORT=3000
+
+JWT_SECRET=mi_clave_secreta_para_jwt_2026
+JWT_EXPIRES_IN=24h
